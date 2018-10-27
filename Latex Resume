@@ -154,10 +154,18 @@ Software \& Tools  & Photoshop, Premiere Pro, SketchUp 3D, Unity, PowerBI, Excel
 \end{rSection}
 
 %-----------------------------------------------------------------------------------------
+% IMPORTANT PROJECT DESCRIPTIONS (OPTIONAL)
+%-----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+% Add the related details here.
+\end{rSection}
+
+%-----------------------------------------------------------------------------------------
 %	HOBBIES SECTION
 %-----------------------------------------------------------------------------------------
 
-\begin{rSection}{EXTRA CIRRICULAR}
+\begin{rSection}{EXTRA CIRRICULARS}
 \\ Photography, Debates, Quizzing, Professional Gaming, Football 
 \end{rSection}
 
