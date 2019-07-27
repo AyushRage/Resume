@@ -1,0 +1,150 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Ayush Sharma} % Your name
+\address{30-D, Pocket-F, Mayur Vihar-2, New Delhi-110091} % Your address
+\address{(+91) 9953736105 \\ ayush300897@gmail.com} % Your phone number and email
+
+\begin{document}
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education and Certifications}
+
+{\bf Manav Rachna University} \hfill {\em July 2015 - Present} 
+\\ B.Tech in Computer Science and Technology \hfill { CGPA: 9.27/10}
+
+{\bf Bharatiya Vidya Bhavan's Mehta Vidyalaya} \hfill {\em Jan 2002 - March 2015} 
+\\ 12th CBSE \hfill { Score: 360/500 }
+\\ 10th CBSE \hfill { CGPA: 9.8/10}
+
+{\bf Certifications} 
+\\ Software Development Project Course by Carnegie Mellon University. \hfill
+\\ Sustainable Strategies by Purdue University \hfill
+\\ Google Analytics IQ by Google Academy. \hfill
+\\ English Proficiency by Aspiring Minds. \hfill
+\\ Java with Data Structures by Coding Ninjas. \hfill
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Technical Strengths}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Computer Languages &  Java, Python, SQL, MATLAB, Lua \\
+Web Development & HTML, CSS, Google WebDesign, WordPress, TYPO \\
+Software \& Tools  & Photoshop, SketchUp 3D, Unity, MS Office Suite, Google Suite
+\end{tabular}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	SPOKEN LANGUAGES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Languages Known}
+
+\\ Proficient: Hindi, English \hfill
+\\ Familiar: German (B1 Level) \hfill
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PAPERS PUBLISHED
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Publications}
+
+{\bf Virtual Reality: Blessings and Risks Assessment } \hfill 
+\\ Journal: Indian Journal of Science and Technology (Web Of Science) \hfill  
+
+
+\\ A paper comprising a deep survey of the present VR tools and toolkits, their major applications and further analyzing the market players involved with paralleled assessment of risks.  \hfill
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	POSITIONS HELD SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Positions of Responsibility}
+\item Co-Founder of Manav Rachna Developers' Group
+\item Co-Founder of the Peer Mentoring Programme.
+\item Co-Head of Media Production team of Resurrection 2k16 (Annual Cultural Fest).
+\item Chief Organizer of TECHmage 2k17 and INNOSkill 2k18 (Annual Technological Symposiums).
+\item Jury Member of Dewang Mehta Memorial IT Symposium (Powered by NASSCOM).
+\item Vice-President of Manthan (Literary Society). 
+\item Executive Member of Drishya (Photography Society).
+\item Campus Ambassador for Tata Consultancy Services and Social Vidyarthi.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Experience}
+
+\begin{rSubsection}{Ziddle.net}{June 2016 - Present}{Gaming and Tech Blog}{}
+\item Started a tech blog with my friends to share the latest news related to the world of technology, especially relating to Esports and the Gaming industry.
+\item Was responsible for content creation, lead generation and monitoring online traffic.
+\end{rSubsection}
+
+\begin{rSubsection}{SkyTesters}{May 2016 - June 2016}{In-house Summer Trainee}{}
+\item On-Campus training which taught us about hands-on testing and finding out bugs manually.
+\item Tested Beta-versions of applications like Gaana, Times News, etc.
+\end{rSubsection}
+
+\begin{rSubsection}{Gigabyte India (AORUS division)}{June 2017 - July 2017}{Technical Consultant Intern}{}
+\item Part of a major project to organize a 300+ attendance 48-hour LAN Gaming Event in Delhi.
+\item Main responsibility were building PCs and testing them for optimum performance, setting up the LAN environment and also hosting the league.
+\item Was offered a bonus for my excellent performance.
+\end{rSubsection}
+
+\begin{rSubsection}{Vista Retail}{June 2018 - July 2018}{Data Analyst Intern}{}
+\item This internship was a great learning experience in my path towards Data Science.
+\item Did customer feedback analysis using WordCloud feature in Python to categorize positive and negative words, learned about linear regression models and built some graphical plots representing organization's performance metrics using Microsoft PowerBI. 
+\end{rSubsection}
+
+\begin{rSubsection}{NODWIN Gaming / ESL India}{Jan 2019 - July 2019}{Executive - League Operations}{}
+\item Full-time employee at the India's largest Esports and Gaming solutions company.
+\item As a League Ops Executive, my daily tasks involved developing tournament websites, doing in-game analytics and displaying them on live stream, tracking user traffic using Google Analytics, generating reports in Excel and Google Datastudio and troubleshooting issues regarding hardware/software during live LAN events. 
+\item Under this organization I was part of some of the largest Esports projects in the country like ESL One Mumbai 2019, PUBG Mobile Club Open Delhi 2019, Dreamhack Mumbai 2018, etc.
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	ACHIEVEMENTS/AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Achievements} \itemsep -2pt
+
+\item Highest number of inter-college and intra-college achievements in the Computer Science Engineering Batch 2015-19.
+\item 1st in  Web-a-thon and Photography in CSI-NSC'18 at VIPS, Pitampura.
+\item 1st in Tech Debate and Spell Bee in JIGYASA'17 at GTC, Jaipur.
+\item Top 20 finish out of 150+ registered teams in LNMhacks 2.0 at LMNIIT, Jaipur.
+\item Research commendations by Accendere, ScrayTrust and IJRULA.
+
+\end{rSection}
+
+%-----------------------------------------------------------------------------------------
+%	HOBBIES SECTION
+%-----------------------------------------------------------------------------------------
+
+\begin{rSection}{EXTRA CIRRICULARS}
+\\ Photography, Debates, Quizzing, Professional Gaming, Football 
+\end{rSection}
+
+\end{document}
